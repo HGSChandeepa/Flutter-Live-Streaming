@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "260553828543",
+    "project_id": "shopsmart-89e33",
+    "storage_bucket": "shopsmart-89e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260553828543:android:fc84887a59fedc78017e0a",
+        "android_client_info": {
+          "package_name": "com.example.shop_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260553828543-ma8dhkfat94svums3f8irt73nak042t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_-mxoXywJjg79mxc0VpB92gLQJBjfAms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260553828543-ma8dhkfat94svums3f8irt73nak042t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260553828543:android:8b761b0e9f534d25017e0a",
+        "android_client_info": {
+          "package_name": "com.zegocloud.uikit.flutter.live_streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260553828543-ma8dhkfat94svums3f8irt73nak042t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_-mxoXywJjg79mxc0VpB92gLQJBjfAms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260553828543-ma8dhkfat94svums3f8irt73nak042t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
