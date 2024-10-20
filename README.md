@@ -1,15 +1,6 @@
-- - -
-# Overview
-- - -
+# Fluter & Zegocloud Live Streaming
 
 **Live Streaming Kit** is a feature-rich livestream component, which enables you to build custom live streaming into your apps with only a few lines of code. And you can also customize various live streaming features by configuring parameters.
-
-
-| Host | Audience |
-| --- | --- |
-|![host_3.gif](./../images/host_3.gif)|![audience_3](./../images/audience_3.gif)|
-
-
 
 ## When do you need the Live Streaming Kit
 
