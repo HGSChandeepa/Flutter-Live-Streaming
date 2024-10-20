@@ -205,5 +205,5 @@ Now you can simply click the **Run** or **Debug** button to run and test your Ap
 
 ## Related guide
 
-[Custom prebuilt UI](https://docs.zegocloud.com/article/14878)
+[Custom prebuilt UI](https://docs.zegocloud.com/article)
 
